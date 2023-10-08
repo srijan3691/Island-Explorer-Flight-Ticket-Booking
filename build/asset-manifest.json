@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b083d46.css",
+    "main.js": "/static/js/main.d399b1aa.js",
+    "static/media/mul.jpg": "/static/media/mul.d8a64ac38ad277a333dd.jpg",
+    "static/media/Logo.png": "/static/media/Logo.8074129f477156c6f43f.png",
+    "static/media/tbt.jpg": "/static/media/tbt.67b51004343e485a5294.jpg",
+    "static/media/flyseries.png": "/static/media/flyseries.0c181713a8e844ff8ed1.png",
+    "static/media/sasta.jpg": "/static/media/sasta.5855028480e537d8a620.jpg",
+    "static/media/Bmf.jpg": "/static/media/Bmf.fda390c208f4f3bcfec2.jpg",
+    "static/media/Evg.jpg": "/static/media/Evg.d6477cec9c419023c2da.jpg",
+    "static/media/mmt.jpg": "/static/media/mmt.4dc78e0ba8f65cd648e3.jpg",
+    "static/media/fly.jpg": "/static/media/fly.88eb964a1624ce175369.jpg",
+    "static/media/air.jpg": "/static/media/air.6acf14fafe4b2f5ed2dc.jpg",
+    "index.html": "/index.html",
+    "main.0b083d46.css.map": "/static/css/main.0b083d46.css.map",
+    "main.d399b1aa.js.map": "/static/js/main.d399b1aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b083d46.css",
+    "static/js/main.d399b1aa.js"
+  ]
+}
