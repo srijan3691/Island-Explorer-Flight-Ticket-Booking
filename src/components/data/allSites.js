@@ -13,7 +13,11 @@ import pjt from "../../Assests/Images/pjt.jpg";
 import pst from "../../Assests/Images/pst.jpg";
 import sasta from "../../Assests/Images/sasta.jpg";
 import tbt from "../../Assests/Images/tbt.jpg";
-import flys from "../../Assests/Images/flyseries.png"
+import flys from "../../Assests/Images/flyseries.png";
+import fly24hrs from "../../Assests/Images/fly24hrs.jpeg";
+import jaza from "../../Assests/Images/jaza.png";
+import tktmytrip from"../../Assests/Images/ticmytrip.png";
+import zamzam from "../../Assests/Images/zamzam.png"
 
 
 
@@ -80,7 +84,30 @@ export const allSites = [
         link:"https://agent.goflysmart.com/auth/login",
 
     },
-   
+    {
+        image:tktmytrip,
+        name:"Ticket My Trip",
+        link:"https://ticketmytrip.in/login",
+
+    },
+    {
+        image:zamzam,
+        name:"ZamZam Travels",
+        link:"https://b2b.zamzamtravel.co.in/",
+
+    },
+    {
+        image:jaza,
+        name:"Jaza Tours & Travels",
+        link:"https://www.gojaza.com/",
+
+    },
+    {
+        image:fly24hrs,
+        name:"Fly24hrs",
+        link:"https://fly24hrs.com/B2BLogin",
+
+    },
     {
         image:tbt,
         name:"Travel Boutique Online",
