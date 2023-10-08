@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/srijan3691/Flight-Booking/static/css/main.b9a69b32.css",
-    "main.js": "/srijan3691/Flight-Booking/static/js/main.31a37932.js",
-    "static/media/Logo2-removebg.png": "/srijan3691/Flight-Booking/static/media/Logo2-removebg.b3dbd3fe5ad4a6120f34.png",
-    "static/media/ticmytrip.png": "/srijan3691/Flight-Booking/static/media/ticmytrip.4b54880052f88200ee92.png",
-    "static/media/zamzam.png": "/srijan3691/Flight-Booking/static/media/zamzam.cc5fece66ec60f4af4bd.png",
-    "static/media/mul.jpg": "/srijan3691/Flight-Booking/static/media/mul.d8a64ac38ad277a333dd.jpg",
-    "static/media/tbt.jpg": "/srijan3691/Flight-Booking/static/media/tbt.67b51004343e485a5294.jpg",
-    "static/media/flyseries.png": "/srijan3691/Flight-Booking/static/media/flyseries.0c181713a8e844ff8ed1.png",
-    "static/media/sasta.jpg": "/srijan3691/Flight-Booking/static/media/sasta.5855028480e537d8a620.jpg",
-    "static/media/Bmf.jpg": "/srijan3691/Flight-Booking/static/media/Bmf.fda390c208f4f3bcfec2.jpg",
-    "static/media/jaza.png": "/srijan3691/Flight-Booking/static/media/jaza.1d24179f6b087920799d.png",
-    "static/media/Evg.jpg": "/srijan3691/Flight-Booking/static/media/Evg.d6477cec9c419023c2da.jpg",
-    "static/media/mmt.jpg": "/srijan3691/Flight-Booking/static/media/mmt.4dc78e0ba8f65cd648e3.jpg",
-    "static/media/fly.jpg": "/srijan3691/Flight-Booking/static/media/fly.88eb964a1624ce175369.jpg",
-    "static/media/air.jpg": "/srijan3691/Flight-Booking/static/media/air.6acf14fafe4b2f5ed2dc.jpg",
-    "index.html": "/srijan3691/Flight-Booking/index.html",
-    "main.b9a69b32.css.map": "/srijan3691/Flight-Booking/static/css/main.b9a69b32.css.map",
-    "main.31a37932.js.map": "/srijan3691/Flight-Booking/static/js/main.31a37932.js.map"
+    "main.css": "/Island-Explorer-Flight-Ticket-Booking/static/css/main.b9a69b32.css",
+    "main.js": "/Island-Explorer-Flight-Ticket-Booking/static/js/main.b81293e5.js",
+    "static/media/Logo2-removebg.png": "/Island-Explorer-Flight-Ticket-Booking/static/media/Logo2-removebg.b3dbd3fe5ad4a6120f34.png",
+    "static/media/ticmytrip.png": "/Island-Explorer-Flight-Ticket-Booking/static/media/ticmytrip.4b54880052f88200ee92.png",
+    "static/media/zamzam.png": "/Island-Explorer-Flight-Ticket-Booking/static/media/zamzam.cc5fece66ec60f4af4bd.png",
+    "static/media/mul.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/mul.d8a64ac38ad277a333dd.jpg",
+    "static/media/tbt.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/tbt.67b51004343e485a5294.jpg",
+    "static/media/flyseries.png": "/Island-Explorer-Flight-Ticket-Booking/static/media/flyseries.0c181713a8e844ff8ed1.png",
+    "static/media/sasta.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/sasta.5855028480e537d8a620.jpg",
+    "static/media/Bmf.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/Bmf.fda390c208f4f3bcfec2.jpg",
+    "static/media/jaza.png": "/Island-Explorer-Flight-Ticket-Booking/static/media/jaza.1d24179f6b087920799d.png",
+    "static/media/Evg.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/Evg.d6477cec9c419023c2da.jpg",
+    "static/media/mmt.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/mmt.4dc78e0ba8f65cd648e3.jpg",
+    "static/media/fly.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/fly.88eb964a1624ce175369.jpg",
+    "static/media/air.jpg": "/Island-Explorer-Flight-Ticket-Booking/static/media/air.6acf14fafe4b2f5ed2dc.jpg",
+    "index.html": "/Island-Explorer-Flight-Ticket-Booking/index.html",
+    "main.b9a69b32.css.map": "/Island-Explorer-Flight-Ticket-Booking/static/css/main.b9a69b32.css.map",
+    "main.b81293e5.js.map": "/Island-Explorer-Flight-Ticket-Booking/static/js/main.b81293e5.js.map"
   },
   "entrypoints": [
     "static/css/main.b9a69b32.css",
-    "static/js/main.31a37932.js"
+    "static/js/main.b81293e5.js"
   ]
 }
